@@ -30,7 +30,6 @@ public class NewsFeed
     /**
      * Add a text post to the news feed.
      *
-     * @param text  The text post to be added.
      */
     public void addMessagePost(MessagePost message)
     {
